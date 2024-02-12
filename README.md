@@ -1,2 +1,2 @@
 # model_solar_panel
-Developing a polynomial regression model for forecasting solar panel intensity using local weather data.
+Developing a Linear regression model for forecasting solar panel intensity using local weather data.
